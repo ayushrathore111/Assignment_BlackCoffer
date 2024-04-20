@@ -1,0 +1,3 @@
+Error
+
+HTTPSConnectionPool(host='insights.blackcoffer.com', port=443): Max retries exceeded with url: /impact-of-covid-19-pandemic-on-tourism-aviation-industries/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7302dd53a0e0>: Failed to establish a new connection: [Errno 113] No route to host'))
